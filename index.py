@@ -75,7 +75,7 @@ while replay == 'y':
 
 
     # Show the secret word
-    print(secret_word)
+    #print(secret_word)
 
     # Begin the game
     print("\n\n------------ Aller vous trouver le mot secret ... ??? ------------\n")
